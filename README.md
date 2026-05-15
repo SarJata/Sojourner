@@ -75,5 +75,3 @@ The frontend provides a sleek, modern interface for trip planning.
 - `/backend/services`: The "intelligence" layer (AI, Recommendation, Decision engines).
 
 ---
-
-Built with ✨ by Antigravity.
